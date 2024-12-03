@@ -70,8 +70,6 @@
 
 
 40. 提交檔案並查看版本紀錄
-git commit -m "新增左上區域"
-git log --oneline
 
 
 50. 在終端機輸入 git push，推送到 GitHub 數據庫
